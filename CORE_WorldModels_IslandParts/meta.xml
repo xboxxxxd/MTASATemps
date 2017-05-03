@@ -1,0 +1,65 @@
+<meta>
+    <info type="script" name="CORE_WorldModels_IslandParts" author="xboxxxxd" version="0.0.1" description="CORE_WorldModels_IslandParts, Load's the required models needed for CORE_World!.." />
+    <script src="loader.lua" type="client" />
+
+    <file src="MatTextures.txd" />
+    <file src="beach_sfs.txd" />
+
+    <file src="IslandBase1.col" />
+    <file src="Plane001.col" />
+    <file src="Plane002.col" />
+    <file src="Plane003.col" />
+    <file src="Plane004.col" />
+    <file src="Plane005.col" />
+    <file src="Plane006.col" />
+    <file src="Plane007.col" />
+    <file src="Plane008.col" />
+    <file src="Plane009.col" />
+    <file src="Plane62_5x15Conc1.col" />
+    <file src="Plane62_5x15Grass1.col" />
+    <file src="Plane62_5x15Sand1.col" />
+    <file src="Plane62_5x125Conc1.col" />
+    <file src="Plane62_5x125Grass1.col" />
+    <file src="Plane62_5x125Sand1.col" />
+    <file src="Plane125x125Conc1.col" />
+    <file src="Plane125x125Conc2.col" />
+    <file src="Plane125x125Grass1.col" />
+    <file src="Plane125x125Grass2.col" />
+    <file src="Plane125x125Sand1.col" />
+    <file src="Plane125x125Sand2.col" />
+    <file src="Edge62_5x15Grass1.col" />
+    <file src="Edge62_5x32_5Grass1.col" />
+    <file src="Edge62_5x62_5Grass1.col" />
+    <file src="Edge62_5x62_5Grass2.col" />
+    <file src="Edge62_5x62_5Grass3.col" />
+    <file src="Edge62_5x125Grass1.col" />
+
+    <file src="IslandBase1.dff" />
+    <file src="Plane001.dff" />
+    <file src="Plane002.dff" />
+    <file src="Plane003.dff" />
+    <file src="Plane004.dff" />
+    <file src="Plane005.dff" />
+    <file src="Plane006.dff" />
+    <file src="Plane007.dff" />
+    <file src="Plane008.dff" />
+    <file src="Plane009.dff" />
+    <file src="Plane62_5x15Conc1.dff" />
+    <file src="Plane62_5x15Grass1.dff" />
+    <file src="Plane62_5x15Sand1.dff" />
+    <file src="Plane62_5x125Conc1.dff" />
+    <file src="Plane62_5x125Grass1.dff" />
+    <file src="Plane62_5x125Sand1.dff" />
+    <file src="Plane125x125Conc1.dff" />
+    <file src="Plane125x125Conc2.dff" />
+    <file src="Plane125x125Grass1.dff" />
+    <file src="Plane125x125Grass2.dff" />
+    <file src="Plane125x125Sand1.dff" />
+    <file src="Plane125x125Sand2.dff" />
+    <file src="Edge62_5x15Grass1.dff" />
+    <file src="Edge62_5x32_5Grass1.dff" />
+    <file src="Edge62_5x62_5Grass1.dff" />
+    <file src="Edge62_5x62_5Grass2.dff" />
+    <file src="Edge62_5x62_5Grass3.dff" />
+    <file src="Edge62_5x125Grass1.dff" />
+</meta>
